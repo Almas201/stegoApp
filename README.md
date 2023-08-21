@@ -15,5 +15,6 @@
 
 1.	Дважды кликайте на иконку «app.exe»
 
+![](https://github.com/Almas201/stegoApp/blob/main/screenshots/3.gif)
 
-2.	
+
