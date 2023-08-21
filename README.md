@@ -3,3 +3,4 @@
 
 # Установка
 
+![](https://github.com/Almas201/stegoApp/blob/main/screenshots/1.png)
